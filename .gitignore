@@ -224,3 +224,7 @@ __marimo__/
 
 # not useful jupyter file
 **tp_final_analyse_logs.ipynb~
+
+# not required folders
+**/15. ETL distribué
+**/17. Spark SQL et DataFrame
